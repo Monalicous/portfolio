@@ -276,7 +276,7 @@ footer{
 
 
 
-@media screen and (max-width:500px){
+@media screen and (max-width:768px){
     .navbar div img{
         width: 70px;
         margin-left: 10px;
@@ -286,5 +286,8 @@ footer{
     .navbar ul li{
         display: none;
     }
-    
+
+    body{
+        width:100%;
+    }        
 }
