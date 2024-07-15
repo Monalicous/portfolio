@@ -276,7 +276,7 @@ footer{
 
 
 
-@media screen and (max-width:768px){
+@media screen and (max-width:480px){
     .navbar div img{
         width: 70px;
         margin-left: 10px;
