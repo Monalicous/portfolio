@@ -1,5 +1,5 @@
 # Portfolio Website
-Portfolio Website -This is my first ever project created with success with the help of many resources.
+-This is my first ever project created with success with the help of many resources.
 
 # HTML has a lay out of my page divided into sections namely:
 -Home 
