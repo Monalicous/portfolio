@@ -228,12 +228,12 @@ body{
 }
 
 .progress-virtual{
-    background-color: blueviolet;
+    background-color: violet;
     margin:0;
     padding:0;
 }
 
-.progress-css, .progress-html, .progress-github, .progress-javascript, .progress-vscode{
+.progress-css, .progress-html, .progress-github, .progress-javascript, .progress-vscode, .progress-virtual{
     -webkit-transition: width 4s ease !important;
     -moz-transition: width 4s ease !important;
     -o-transition: width 4s ease !important;
