@@ -296,6 +296,10 @@ footer{
 
 
 @media screen and (max-width:500px){
+    body{
+        width:100vw;
+    }
+        
     .navbar div img{
         width: 70px;
         margin-left: 10px;
@@ -307,10 +311,6 @@ footer{
     }
      .cards {
             display: grid;
-            grid-template-columns: repeat(2, 1fr);
-            
-    
-        }
-
-   
+            grid-template-columns: repeat(2, 1fr);   
+     } 
 }
